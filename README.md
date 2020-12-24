@@ -1,5 +1,5 @@
-# THIS SERVER IS NOT BEING UPDATED ANYMORE!
-It will work fine for some time now scriptwise, but you will probably have to take care about updating the server artifacts and Visual C++.
+# Being Updated By JoeyZX
+I know a lot of people want ESX bases that are good, I know this one is good, it's just a bit old and isn't being updated. I have decided to start updating it myself.
 
 # ESXBase-server
 A server made with base resources from ESX and Essentialmode Framework. And also ESX_kashacters.
